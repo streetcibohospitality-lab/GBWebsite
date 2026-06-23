@@ -10,10 +10,9 @@
 | What | Link |
 |------|------|
 | Live Website | `https://www.https://grubmonkeys.in/` |
-| GitHub Repo | `https://github.com/YOUR-USERNAME/grubmonkeys-website` |
-| Vercel Dashboard | `https://vercel.com/YOUR-USERNAME/grubmonkeys-website` |
+| GitHub Repo | `https://github.com/streetcibohospitality-lab/GBWebsite` |
+| Vercel Dashboard | `https://vercel.com/grubmonkeys/grubmonkey` |
 
-> ✏️ Replace the placeholders above with your actual URLs.
 
 ---
 
@@ -25,25 +24,25 @@
 ### GitHub
 | Field | Value |
 |-------|-------|
-| Username | ` ` |
-| Email | ` ` |
-| Password | ` ` |
+| Username | `streetcibohospitality@gmail.com ` |
+| Email | ` streetcibohospitality@gmail.com` |
+| Password | ` Streetcibo@2023` |
 | 2FA | ` ` |
 
 ### Vercel
 | Field | Value |
 |-------|-------|
-| Login method | ` ` _(GitHub OAuth / Email)_ |
-| Email | ` ` |
-| Password | ` ` |
+| Login method | ` login with email ` _(GitHub OAuth / Email)_ |
+| Email | `streetcibohospitality@gmail.com ` |
+| Password | `Streetcibo@2023 ` |
 | Team / Org name | ` ` |
 
 ### Domain Registrar _(if applicable)_
 | Field | Value |
 |-------|-------|
-| Registrar | ` ` _(GoDaddy / Namecheap / etc.)_ |
-| Login email | ` ` |
-| Password | ` ` |
+| Registrar | ` GoDady ` _(GoDaddy / Namecheap / etc.)_ |
+| Login email | `streetcibohospitality@gmail.com ` |
+| Password | ` Streetcibo@2023` |
 | Domain name | `grubmonkeys.in` |
 
 ---
@@ -53,7 +52,7 @@
 ```
 grubmonkeys-website/
 │
-├── index.html       ← entire website (HTML + CSS + JS in one file)
+├── index.html       https://grubmonkeys.in/
 └── README.md        ← this file
 ```
 
