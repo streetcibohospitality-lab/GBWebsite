@@ -1,2 +1,0 @@
-# GBWebsite
-GBWebsite codes
